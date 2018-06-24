@@ -1,1 +1,115 @@
 
+.top-head{
+  text-align: center;
+  color: white;
+ height: 500px;
+ background-image: url("../img/backgrounds/landing.jpg");
+ background-size: cover;
+ background-color: #F15A29;
+ font-family: 'Markazi Text', serif;
+ padding: 60px 50px;
+
+}
+
+.happy{
+  background-color: grey;
+  height: 100px;
+  width: 110%;
+  text-align: center;
+  font-family: 'Markazi Text', serif;
+font-size: 60px;
+
+}
+.party{
+  background-color: #F15A29;
+  height: 110px;
+  width: 110%;
+  text-align: center;
+  font-family: 'Markazi Text', serif;
+  font-size: 60px;
+  color: white;
+
+}
+.foot{
+  background-color:  #F15A29;
+  height: 250px;
+}
+.cent{
+  text-align: center;
+  color: white;
+}
+.sub{
+  text-align: center;
+  height: 200px;
+  column-fill: balance;
+  padding: 60px 50px;
+}
+.btn{
+  display: inline-block;
+    padding: 3px 40px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: 4px transparent;
+    border-radius: 1px;
+
+}
+.btn1{
+  color: #fff;
+  background-color: #F15A29;
+
+
+}
+.will{
+height: 250px;
+text-align: center;
+font-size: 5px;
+
+
+}
+.will2{
+  text-align: center;
+}
+#gf{
+  color: #F15A29;
+}
+#hf{
+color:  #F15A29;
+}
+.log{
+  background-color: #F15A29;
+  text-decoration-color: #F15A29;
+
+
+}
+.food{
+  background-image: url("../img/backgrounds/foodsBg.jpg");
+  height: 400px;
+  background-repeat: no-repeat;
+  backface-visibility: hidden;
+}
+.tab-content{
+  color: #F15A29;
+  text-align: center;
+
+}
+.tb{
+  width:auto;
+border-width: medium;
+
+
+}
+.ty{
+  background-image: url('../img/backgrounds/subscribe.jpg');
+  font-family: 'Markazi Text', serif;
+  height: 300px;
+}
+#y{
+  color: white;
+  font-family: 'Markazi Text', serif;
+  position: center;
+}
