@@ -9,7 +9,7 @@ Anita's kitchen is  a website about a restaurant named Anita's its helps users t
 3. open and run the project in your browser.
 4. for more information contact andala63@gmail.com.
 #### link
-https://allanlcomander.github.io/Anitas_Kitchen/
+https://allanlcomander.github.io/Anitas_kitchen/
 
 ##### copyright
 open source By Nandala Allan
